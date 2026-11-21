@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.9"
+  version: "0.2.10"
 
 package:
   name: mathparse
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mathparse/mathparse-${{ version }}.tar.gz
-  sha256: 39076aaedce5219942df6204f67548f4a05529f7c478c0d1a65b50e16694712c
+  sha256: 5a622b7d0cf62edacd1915436c68f0c36b4aa6fe3a2f120891a33f53edbf52d9
 
 build:
   number: 0
